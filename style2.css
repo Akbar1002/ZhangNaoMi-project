@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1{
+    font-family: cursive;
+    color: burlywood;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+ul li{
+    border: 2px burlywood solid;
+    margin-bottom: 30px;
+    list-style: none;
+    border-radius: 15px;
+    
+}
+img{
+    width:500px;
+}
